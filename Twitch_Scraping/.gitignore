@@ -1,0 +1,13 @@
+venv/
+.venv/
+.env
+__pycache__
+.DS_Store
+geckodriver.log
+
+documents/*.txt
+documents/*.xlsx
+documents/final/*.xlsx
+
+result.xlsx
+
